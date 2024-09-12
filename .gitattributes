@@ -1,0 +1,4 @@
+pointclouds/webmini/octree.bin filter=lfs diff=lfs merge=lfs -text
+pointclouds/webmini/hierarchy.bin filter=lfs diff=lfs merge=lfs -text
+pointclouds/webmini/log.txt filter=lfs diff=lfs merge=lfs -text
+pointclouds/webmini/metadata.json filter=lfs diff=lfs merge=lfs -text
